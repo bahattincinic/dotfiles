@@ -1,6 +1,10 @@
 # Vim 
 ![screen shot](https://cloud.githubusercontent.com/assets/1684999/5585916/d4e64924-90c4-11e4-9b2d-1c4caf320b82.png)
 
+# Requirements
+
+    pip install flake8
+
 
 ## Plugins
 
